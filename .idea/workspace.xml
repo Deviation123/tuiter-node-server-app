@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3c4009a-2636-4859-b3a7-e340d0c33c70" name="Changes" comment="" />
+    <list default="true" id="d3c4009a-2636-4859-b3a7-e340d0c33c70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/controllers/hello-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/tuits/tuits-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/tuits/tuits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/users/users-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/users/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,19 +18,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2O7MSSeHsngGJELoa8NHpUm2GfE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/aaryan/Desktop/tuiter-node-server-app"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aaryan/Desktop/tuiter-node-server-app&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="tuiter-node-server-app" />
@@ -48,10 +59,23 @@
       <updated>1680907166389</updated>
       <workItem from="1680907167536" duration="12000" />
       <workItem from="1680907188054" duration="73000" />
+      <workItem from="1680907269825" duration="706000" />
+      <workItem from="1681335453683" duration="5124000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
